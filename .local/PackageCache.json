@@ -25,6 +25,52 @@
     },
     {
       "Package": {
+        "Id": "Jering.Javascript.NodeJS",
+        "Version": "6.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\uidq2225\\.nuget\\packages\\jering.javascript.nodejs/6.2.0\\lib/net461/Jering.Javascript.NodeJS.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.aspnetcore.http.features/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.bcl.asyncinterfaces/5.0.0\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.configuration.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.dependencyinjection/5.0.1\\lib/net461/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions/5.0.0\\lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.hosting.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.http/5.0.0\\lib/net461/Microsoft.Extensions.Http.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.logging/5.0.0\\lib/net461/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.logging.abstractions/5.0.0\\lib/net461/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.options/5.0.0\\lib/net461/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.primitives/5.0.0\\lib/net461/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.diagnostics.diagnosticsource/5.0.0\\lib/net46/System.Diagnostics.DiagnosticSource.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.io.pipelines/4.7.1\\lib/netstandard2.0/System.IO.Pipelines.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.runtime.compilerservices.unsafe/5.0.0\\lib/net45/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.text.encodings.web/5.0.1\\lib/net461/System.Text.Encodings.Web.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.text.json/5.0.2\\lib/net461/System.Text.Json.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll"
+      ],
+      "Path": "C:\\Users\\uidq2225\\.nuget\\packages\\jering.javascript.nodejs\\6.2.0"
+    },
+    {
+      "Package": {
+        "Id": "System.IO.FileSystem",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.io.filesystem/4.3.0\\lib/net46/System.IO.FileSystem.dll",
+        "C:\\Users\\uidq2225\\.nuget\\packages\\system.io.filesystem.primitives/4.3.0\\lib/net46/System.IO.FileSystem.Primitives.dll"
+      ],
+      "Path": "C:\\Users\\uidq2225\\.nuget\\packages\\system.io.filesystem\\4.3.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Database.Activities",
         "Version": "1.4.0"
       },
@@ -227,52 +273,6 @@
         "C:\\Users\\uidq2225\\.nuget\\packages\\xamarin.essentials/1.5.2\\lib/netstandard2.0/Xamarin.Essentials.dll"
       ],
       "Path": "C:\\Users\\uidq2225\\.nuget\\packages\\xam.plugin.screenshot\\2.0.3"
-    },
-    {
-      "Package": {
-        "Id": "System.IO.FileSystem",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.io.filesystem/4.3.0\\lib/net46/System.IO.FileSystem.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.io.filesystem.primitives/4.3.0\\lib/net46/System.IO.FileSystem.Primitives.dll"
-      ],
-      "Path": "C:\\Users\\uidq2225\\.nuget\\packages\\system.io.filesystem\\4.3.0"
-    },
-    {
-      "Package": {
-        "Id": "Jering.Javascript.NodeJS",
-        "Version": "6.2.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\uidq2225\\.nuget\\packages\\jering.javascript.nodejs/6.2.0\\lib/net461/Jering.Javascript.NodeJS.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.aspnetcore.http.features/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.bcl.asyncinterfaces/5.0.0\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.configuration.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.dependencyinjection/5.0.1\\lib/net461/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions/5.0.0\\lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.hosting.abstractions/2.2.0\\lib/netstandard2.0/Microsoft.Extensions.Hosting.Abstractions.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.http/5.0.0\\lib/net461/Microsoft.Extensions.Http.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.logging/5.0.0\\lib/net461/Microsoft.Extensions.Logging.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.logging.abstractions/5.0.0\\lib/net461/Microsoft.Extensions.Logging.Abstractions.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.options/5.0.0\\lib/net461/Microsoft.Extensions.Options.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\microsoft.extensions.primitives/5.0.0\\lib/net461/Microsoft.Extensions.Primitives.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.diagnostics.diagnosticsource/5.0.0\\lib/net46/System.Diagnostics.DiagnosticSource.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.io.pipelines/4.7.1\\lib/netstandard2.0/System.IO.Pipelines.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.runtime.compilerservices.unsafe/5.0.0\\lib/net45/System.Runtime.CompilerServices.Unsafe.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.text.encodings.web/5.0.1\\lib/net461/System.Text.Encodings.Web.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.text.json/5.0.2\\lib/net461/System.Text.Json.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
-        "C:\\Users\\uidq2225\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll"
-      ],
-      "Path": "C:\\Users\\uidq2225\\.nuget\\packages\\jering.javascript.nodejs\\6.2.0"
     }
   ],
   "Conflicts": [],

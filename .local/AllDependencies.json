@@ -6465,9 +6465,9 @@
     "restore": {
       "projectUniqueName": "Demo",
       "projectName": "Demo",
-      "projectPath": "D:\\uidq2225\\RPA\\Demo\\.local",
+      "projectPath": "D:\\uidq2225\\Desktop\\UIPath-demo\\.local",
       "packagesPath": "C:\\Users\\uidq2225\\.nuget\\packages\\",
-      "outputPath": "D:\\uidq2225\\RPA\\Demo\\.local"
+      "outputPath": "D:\\uidq2225\\Desktop\\UIPath-demo\\.local"
     },
     "frameworks": {
       "net461": {
